@@ -9,7 +9,7 @@ const Hero = () => {
         <p>
           We Deliver Anywhere In Pune anything upto 2000kg.
         </p>
-        <a href="#tours" class="btn hero-btn">explore our trucks</a>
+        <a href="#trucks" class="btn hero-btn">explore our trucks</a>
       </div>
     </section>
       
